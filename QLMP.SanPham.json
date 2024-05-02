@@ -1,0 +1,459 @@
+[{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315ccc"
+  },
+  "MASP": "SP01",
+  "DanhMuc": {
+    "TENDM": "Son"
+  },
+  "NhaCungCap": {
+    "TENNCC": "KissA Skincare"
+  },
+  "TENSP": "Merzy The First Velvet Tint",
+  "SOLUONGTON": 24,
+  "GIA": 150000,
+  "THUONGHIEU": "Merzy",
+  "ANH": "C:\\img\\sp1.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315ccd"
+  },
+  "MASP": "SP02",
+  "DanhMuc": {
+    "TENDM": "Son"
+  },
+  "NhaCungCap": {
+    "TENNCC": "KissA Skincare"
+  },
+  "TENSP": "Son Merzy Aurora Dewy Tint",
+  "SOLUONGTON": 57,
+  "GIA": 190000,
+  "THUONGHIEU": "Merzy",
+  "ANH": "C:/img/sp2.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315cce"
+  },
+  "MASP": "SP03",
+  "DanhMuc": {
+    "TENDM": "Son"
+  },
+  "NhaCungCap": {
+    "TENNCC": "KissA Skincare"
+  },
+  "TENSP": "Son Dưỡng Môi Luxury Mộc An",
+  "SOLUONGTON": 64,
+  "GIA": 160000,
+  "THUONGHIEU": "Luxury",
+  "ANH": "C:/img/sp3.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315ccf"
+  },
+  "MASP": "SP04",
+  "DanhMuc": {
+    "TENDM": "Son"
+  },
+  "NhaCungCap": {
+    "TENNCC": "KissA Skincare"
+  },
+  "TENSP": "Son Dior Rouge Velvet Màu 999",
+  "SOLUONGTON": 50,
+  "GIA": 459000,
+  "THUONGHIEU": "Dior",
+  "ANH": "C:/img/sp4.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315cd0"
+  },
+  "MASP": "SP06",
+  "DanhMuc": {
+    "TENDM": "Nước tẩy trang"
+  },
+  "NhaCungCap": {
+    "TENNCC": "Zencos"
+  },
+  "TENSP": "Nước tẩy trang Loreal Micellar Water",
+  "SOLUONGTON": 50,
+  "GIA": 189000,
+  "THUONGHIEU": "Loreal",
+  "ANH": "C:/img/sp6.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315cd1"
+  },
+  "MASP": "SP07",
+  "DanhMuc": {
+    "TENDM": "Nước tẩy trang"
+  },
+  "NhaCungCap": {
+    "TENNCC": "Zencos"
+  },
+  "TENSP": "Nước tẩy trang cocoon",
+  "SOLUONGTON": 49,
+  "GIA": 245000,
+  "THUONGHIEU": "cocoon",
+  "ANH": "C:/img/sp7.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315cd2"
+  },
+  "MASP": "SP08",
+  "DanhMuc": {
+    "TENDM": "Nước tẩy trang"
+  },
+  "NhaCungCap": {
+    "TENNCC": "Zencos"
+  },
+  "TENSP": "Nước tẩy trang Hada Labo",
+  "SOLUONGTON": 50,
+  "GIA": 190000,
+  "THUONGHIEU": "Hada Labo",
+  "ANH": "C:/img/sp8.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315cd3"
+  },
+  "MASP": "SP09",
+  "DanhMuc": {
+    "TENDM": "Nước tẩy trang"
+  },
+  "NhaCungCap": {
+    "TENNCC": "Zencos"
+  },
+  "TENSP": "Nước tẩy trang Garnier Skin ",
+  "SOLUONGTON": 50,
+  "GIA": 150000,
+  "THUONGHIEU": "Garnier",
+  "ANH": "C:/img/sp9.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315cd4"
+  },
+  "MASP": "SP10",
+  "DanhMuc": {
+    "TENDM": "Nước tẩy trang"
+  },
+  "NhaCungCap": {
+    "TENNCC": "Zencos"
+  },
+  "TENSP": "Nước tẩy trang Emmié Amino Acid ",
+  "SOLUONGTON": 50,
+  "GIA": 180000,
+  "THUONGHIEU": "Emmié",
+  "ANH": "C:/img/sp10.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315cd5"
+  },
+  "MASP": "SP11",
+  "DanhMuc": {
+    "TENDM": "Sửa rửa mặt"
+  },
+  "NhaCungCap": {
+    "TENNCC": "Dabo"
+  },
+  "TENSP": "Sữa rửa mặt Bioré ",
+  "SOLUONGTON": 50,
+  "GIA": 180000,
+  "THUONGHIEU": "Bioré",
+  "ANH": "C:/img/sp11.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315cd6"
+  },
+  "MASP": "SP12",
+  "DanhMuc": {
+    "TENDM": "Sửa rửa mặt"
+  },
+  "NhaCungCap": {
+    "TENNCC": "Dabo"
+  },
+  "TENSP": "Sữa rửa mặt Reihaku Hatomugi ",
+  "SOLUONGTON": 50,
+  "GIA": 90000,
+  "THUONGHIEU": "Reihaku",
+  "ANH": "C:/img/sp12.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315cd7"
+  },
+  "MASP": "SP13",
+  "DanhMuc": {
+    "TENDM": "Sửa rửa mặt"
+  },
+  "NhaCungCap": {
+    "TENNCC": "Dabo"
+  },
+  "TENSP": "Sữa rửa mặt Hazeline Tràm Trà ",
+  "SOLUONGTON": 49,
+  "GIA": 80000,
+  "THUONGHIEU": "Hazeline",
+  "ANH": "C:/img/sp13.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315cd8"
+  },
+  "MASP": "SP14",
+  "DanhMuc": {
+    "TENDM": "Sửa rửa mặt"
+  },
+  "NhaCungCap": {
+    "TENNCC": "Dabo"
+  },
+  "TENSP": "Sữa rửa mặt gạo Rice Water Bright  ",
+  "SOLUONGTON": 50,
+  "GIA": 249000,
+  "THUONGHIEU": "Rice Ceramide",
+  "ANH": "C:/img/sp14.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315cd9"
+  },
+  "MASP": "SP15",
+  "DanhMuc": {
+    "TENDM": "Sửa rửa mặt"
+  },
+  "NhaCungCap": {
+    "TENNCC": "Dabo"
+  },
+  "TENSP": "Sữa rửa mặt gel VicHy  ",
+  "SOLUONGTON": 50,
+  "GIA": 450000,
+  "THUONGHIEU": "VicHy",
+  "ANH": "C:/img/sp15.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315cda"
+  },
+  "MASP": "SP16",
+  "DanhMuc": {
+    "TENDM": "Kem nền"
+  },
+  "NhaCungCap": {
+    "TENNCC": "Hazel"
+  },
+  "TENSP": "Kem nền Liquid Coverage Foundation",
+  "SOLUONGTON": 50,
+  "GIA": 300000,
+  "THUONGHIEU": "Catrice",
+  "ANH": "C:/img/sp16.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315cdb"
+  },
+  "MASP": "SP17",
+  "DanhMuc": {
+    "TENDM": "Kem nền"
+  },
+  "NhaCungCap": {
+    "TENNCC": "Hazel"
+  },
+  "TENSP": "Kem nền tự nhiên Pure Taupe",
+  "SOLUONGTON": 50,
+  "GIA": 1000000,
+  "THUONGHIEU": "Pure Taupe",
+  "ANH": "C:/img/sp17.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315cdc"
+  },
+  "MASP": "SP18",
+  "DanhMuc": {
+    "TENDM": "Kem nền"
+  },
+  "NhaCungCap": {
+    "TENNCC": "Hazel"
+  },
+  "TENSP": "Kem Nền Lâu Trôi Focallure Skin",
+  "SOLUONGTON": 50,
+  "GIA": 100000,
+  "THUONGHIEU": "Focallure",
+  "ANH": "C:/img/sp18.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315cdd"
+  },
+  "MASP": "SP19",
+  "DanhMuc": {
+    "TENDM": "Kem nền"
+  },
+  "NhaCungCap": {
+    "TENNCC": "Hazel"
+  },
+  "TENSP": "Kem nền dạng lỏng SYNCHRO SKIN",
+  "SOLUONGTON": 50,
+  "GIA": 1500000,
+  "THUONGHIEU": "SHISEIDO",
+  "ANH": "C:/img/sp19.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315cde"
+  },
+  "MASP": "SP20",
+  "DanhMuc": {
+    "TENDM": "Kem nền"
+  },
+  "NhaCungCap": {
+    "TENNCC": "Hazel"
+  },
+  "TENSP": "Kem nền OHUI dạng thỏi siêu che phủ",
+  "SOLUONGTON": 50,
+  "GIA": 1200000,
+  "THUONGHIEU": "OHUI",
+  "ANH": "C:/img/sp20.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315cdf"
+  },
+  "MASP": "SP21",
+  "DanhMuc": {
+    "TENDM": "Phấn phủ"
+  },
+  "NhaCungCap": {
+    "TENNCC": "Locean"
+  },
+  "TENSP": "Phấn Phủ Gucci Poudre",
+  "SOLUONGTON": 50,
+  "GIA": 1350000,
+  "THUONGHIEU": "Gucci",
+  "ANH": "C:/img/sp21.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315ce0"
+  },
+  "MASP": "SP22",
+  "DanhMuc": {
+    "TENDM": "Phấn phủ"
+  },
+  "NhaCungCap": {
+    "TENNCC": "Locean"
+  },
+  "TENSP": "Phấn phủ kiềm dầu Essance ",
+  "SOLUONGTON": 50,
+  "GIA": 1200000,
+  "THUONGHIEU": "Essance",
+  "ANH": "C:/img/sp22.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315ce1"
+  },
+  "MASP": "SP23",
+  "DanhMuc": {
+    "TENDM": "Phấn phủ"
+  },
+  "NhaCungCap": {
+    "TENNCC": "Locean"
+  },
+  "TENSP": "Phấn phủ flormar compact powder",
+  "SOLUONGTON": 50,
+  "GIA": 500000,
+  "THUONGHIEU": "flormar",
+  "ANH": "C:/img/sp23.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315ce2"
+  },
+  "MASP": "SP24",
+  "DanhMuc": {
+    "TENDM": "Phấn phủ"
+  },
+  "NhaCungCap": {
+    "TENNCC": "Locean"
+  },
+  "TENSP": "Phấn phủ dạng bột NARS",
+  "SOLUONGTON": 50,
+  "GIA": 600000,
+  "THUONGHIEU": "NARS",
+  "ANH": "C:/img/sp24.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315ce3"
+  },
+  "MASP": "SP25",
+  "DanhMuc": {
+    "TENDM": "Phấn phủ"
+  },
+  "NhaCungCap": {
+    "TENNCC": "Locean"
+  },
+  "TENSP": "Phấn phủ bột Oil Control Water",
+  "SOLUONGTON": 50,
+  "GIA": 150000,
+  "THUONGHIEU": " Oil Control",
+  "ANH": "C:/img/sp25.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315ce4"
+  },
+  "MASP": "SP26",
+  "DanhMuc": {
+    "TENDM": "Kem dưỡng"
+  },
+  "NhaCungCap": {
+    "TENNCC": "Amway"
+  },
+  "TENSP": "KEM DƯỠNG COLLAGEN VICHY",
+  "SOLUONGTON": 50,
+  "GIA": 300000,
+  "THUONGHIEU": "VICHY",
+  "ANH": "C:/img/sp26.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315ce5"
+  },
+  "MASP": "SP27",
+  "DanhMuc": {
+    "TENDM": "Kem dưỡng"
+  },
+  "NhaCungCap": {
+    "TENNCC": "Amway"
+  },
+  "TENSP": "Kem dưỡng Neutrogena",
+  "SOLUONGTON": 50,
+  "GIA": 200000,
+  "THUONGHIEU": "Neutrogena",
+  "ANH": "C:/img/sp27.png"
+},
+{
+  "_id": {
+    "$oid": "652b94e23703a7e4ec315ce6"
+  },
+  "MASP": "SP28",
+  "DanhMuc": {
+    "TENDM": "Kem dưỡng"
+  },
+  "NhaCungCap": {
+    "TENNCC": "Amway"
+  },
+  "TENSP": "Kem dưỡng Artistry Skin Nutrition",
+  "SOLUONGTON": 50,
+  "GIA": 250000,
+  "THUONGHIEU": "Artistry",
+  "ANH": "C:/img/sp28.png"
+}]

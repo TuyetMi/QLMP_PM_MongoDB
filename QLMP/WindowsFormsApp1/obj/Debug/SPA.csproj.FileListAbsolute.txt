@@ -1,0 +1,345 @@
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\BUS.dll
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\ColorHelper.dll
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\DTO.dll
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\BUS.pdb
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\DTO.pdb
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_DatLich.resources
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_DichVu.resources
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_Home.resources
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_Kho.resources
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Register.resources
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.CopyComplete
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_ThemKhachHang.resources
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\BUS.dll
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\ColorHelper.dll
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\DTO.dll
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\MetroFramework.Design.dll
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\MetroFramework.dll
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\MetroFramework.Fonts.dll
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\DAL.dll
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\BUS.pdb
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\DTO.pdb
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\DAL.pdb
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.AssemblyReference.cache
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.SuggestedBindingRedirects.cache
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_ThemKhachHang.resources
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_NhaCungCap.resources
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_DatLich.resources
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_DichVu.resources
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_Home.resources
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_Kho.resources
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Register.resources
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.GenerateResource.cache
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.CoreCompileInputs.cache
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.CopyComplete
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\BUS.dll
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\ColorHelper.dll
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\DTO.dll
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\MetroFramework.Design.dll
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\MetroFramework.dll
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\MetroFramework.Fonts.dll
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\DAL.dll
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\BUS.pdb
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\DTO.pdb
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\bin\Debug\DAL.pdb
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.AssemblyReference.cache
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.SuggestedBindingRedirects.cache
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_ThemKhachHang.resources
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_NhaCungCap.resources
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_DatLich.resources
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_DichVu.resources
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_Home.resources
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_Kho.resources
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Register.resources
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.GenerateResource.cache
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.CoreCompileInputs.cache
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.CopyComplete
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\tai lieu thi\mau\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\obj\Debug\SPA.csproj.AssemblyReference.cache
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\obj\Debug\SPA.csproj.SuggestedBindingRedirects.cache
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_ThemSanPham.resources
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_ThongTin.resources
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_SanPham.resources
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_Home.resources
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Register.resources
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\obj\Debug\SPA.csproj.GenerateResource.cache
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\obj\Debug\SPA.csproj.CoreCompileInputs.cache
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\BUS.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\ColorHelper.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\DTO.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\MetroFramework.Design.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\MetroFramework.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\DAL.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\BUS.pdb
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\DTO.pdb
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\bin\Debug\DAL.pdb
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\obj\Debug\SPA.csproj.CopyComplete
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_ThongKe.resources
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_ThemThongKe.resources
+E:\mongo\QLMP\WindowsFormsApp1\obj\Debug\SPA.csproj.AssemblyReference.cache
+E:\mongo\QLMP\WindowsFormsApp1\obj\Debug\SPA.csproj.SuggestedBindingRedirects.cache
+E:\mongo\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+E:\mongo\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_ThemSanPham.resources
+E:\mongo\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_ThemThongKe.resources
+E:\mongo\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_ThongTin.resources
+E:\mongo\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_SanPham.resources
+E:\mongo\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_Home.resources
+E:\mongo\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+E:\mongo\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+E:\mongo\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\mongo\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Register.resources
+E:\mongo\QLMP\WindowsFormsApp1\obj\Debug\SPA.csproj.GenerateResource.cache
+E:\mongo\QLMP\WindowsFormsApp1\obj\Debug\SPA.csproj.CoreCompileInputs.cache
+E:\mongo\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\mongo\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\mongocrypt.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\AWSSDK.Core.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\BUS.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\ColorHelper.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\DnsClient.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\DTO.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\MetroFramework.Design.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\MetroFramework.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\MetroFramework.Fonts.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\MongoDB.Bson.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\MongoDB.Driver.Core.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\MongoDB.Driver.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\SharpCompress.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\Snappier.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\ZstdSharp.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\DAL.dll
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\BUS.pdb
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\DTO.pdb
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\AWSSDK.Core.pdb
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\AWSSDK.Core.xml
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.pdb
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.xml
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\DnsClient.xml
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\MongoDB.Bson.xml
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\MongoDB.Driver.xml
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\MongoDB.Driver.Core.xml
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\Snappier.xml
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\System.Memory.xml
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+E:\mongo\QLMP\WindowsFormsApp1\bin\Debug\DAL.pdb
+E:\mongo\QLMP\WindowsFormsApp1\obj\Debug\SPA.csproj.CopyComplete
+E:\mongo\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductControl.resources
+E:\mongo\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_ChiTietSanPham.resources
+E:\mongo\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_HoaDon.resources
+E:\mongo\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GioHang.resources
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\mongocrypt.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\AWSSDK.Core.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\BUS.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\ColorHelper.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\DnsClient.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\DTO.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\MetroFramework.Design.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\MetroFramework.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\MetroFramework.Fonts.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\MongoDB.Bson.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\MongoDB.Driver.Core.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\MongoDB.Driver.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\SharpCompress.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\Snappier.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\ZstdSharp.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\DAL.dll
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\BUS.pdb
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\DTO.pdb
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\AWSSDK.Core.pdb
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\AWSSDK.Core.xml
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.pdb
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.xml
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\DnsClient.xml
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\MongoDB.Bson.xml
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\MongoDB.Driver.xml
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\MongoDB.Driver.Core.xml
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\Snappier.xml
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\bin\Debug\DAL.pdb
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\obj\Debug\SPA.csproj.AssemblyReference.cache
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\obj\Debug\SPA.csproj.SuggestedBindingRedirects.cache
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_ThemSanPham.resources
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_ChiTietSanPham.resources
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_ThongTin.resources
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GioHang.resources
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductControl.resources
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_SanPham.resources
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_HoaDon.resources
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_Home.resources
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Register.resources
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\obj\Debug\SPA.csproj.GenerateResource.cache
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\obj\Debug\SPA.csproj.CoreCompileInputs.cache
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\obj\Debug\SPA.csproj.CopyComplete
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_SuaSanPham.resources
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_NhapHang.resources
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Kho.resources
+D:\HK 7\ST6 NOSQL\15\QLMP\QLMP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_PhieuNhap.resources

@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "652a1d718a69d5e4d6842ff9"
+  },
+  "MANV": "NV01",
+  "HOTEN": "Lương Tuyết Mi",
+  "GIOITINH": "Nữ",
+  "TaiKhoan": {
+    "TENTK": "mi",
+    "MATKHAU": "1234",
+    "VAITRO": "Quản Lí"
+  }
+},
+{
+  "_id": {
+    "$oid": "652a1d718a69d5e4d6842ffa"
+  },
+  "MANV": "NV02",
+  "HOTEN": "Phan Nhật Anh",
+  "GIOITINH": "Nam",
+  "TaiKhoan": {
+    "TENTK": "nhat",
+    "MATKHAU": "123",
+    "VAITRO": "Quản Lí"
+  }
+},
+{
+  "_id": {
+    "$oid": "652a1d718a69d5e4d6842ffb"
+  },
+  "MANV": "NV03",
+  "HOTEN": "Dương Minh Hạnh",
+  "GIOITINH": "Nam",
+  "TaiKhoan": {
+    "TENTK": "hanh",
+    "MATKHAU": "123",
+    "VAITRO": "Nhân Viên"
+  }
+},
+{
+  "_id": {
+    "$oid": "652b999ef6397c371960484f"
+  },
+  "HOTEN": "dang quoc luan",
+  "GIOITINH": "Nam",
+  "TaiKhoan": {
+    "TENTK": "luan",
+    "MATKHAU": "123",
+    "VAITRO": "Khách Hàng"
+  }
+},
+{
+  "_id": {
+    "$oid": "652b9d66d103eb27fd08a12d"
+  },
+  "HOTEN": "Phan Nguyễn Duy Hưng",
+  "GIOITINH": "Nam",
+  "TaiKhoan": {
+    "TENTK": "hung",
+    "MATKHAU": "123",
+    "VAITRO": "Khách Hàng"
+  }
+}]

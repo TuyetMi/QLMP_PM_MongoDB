@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "652c24af243c7f707955b192"
+  },
+  "MAPN": "PN01",
+  "MASP": "SP01",
+  "NGAYLAP": {
+    "$date": "2023-10-16T00:43:11.630Z"
+  },
+  "NGUOINHAP": "Lương Tuyết Mi",
+  "SoLuongNhap": 1,
+  "DonGiaNhap": {
+    "$numberDecimal": "200000"
+  }
+},
+{
+  "_id": {
+    "$oid": "652c29c6e3127c41f3f549a4"
+  },
+  "MAPN": "PN02",
+  "MASP": "SP01",
+  "NGAYLAP": {
+    "$date": "2023-10-16T01:04:54.661Z"
+  },
+  "NGUOINHAP": "Lương Tuyết Mi",
+  "SoLuongNhap": 12,
+  "DonGiaNhap": {
+    "$numberDecimal": "200000"
+  }
+},
+{
+  "_id": {
+    "$oid": "65313dadf00a11f5e115b677"
+  },
+  "MAPN": "PN03",
+  "MASP": "SP01",
+  "NGAYLAP": {
+    "$date": "2023-10-19T21:31:09.811Z"
+  },
+  "NGUOINHAP": "Lương Tuyết Mi",
+  "SoLuongNhap": 12,
+  "DonGiaNhap": {
+    "$numberDecimal": "1231231"
+  }
+}]

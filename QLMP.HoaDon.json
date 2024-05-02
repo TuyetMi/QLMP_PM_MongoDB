@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "652c2948e3127c41f3f549a1"
+  },
+  "MAHD": "HD01",
+  "NGAYLAP": "16/10/2023",
+  "CHITIETHOADON": [
+    {
+      "TENSP": "Son Dưỡng Môi Luxury Mộc An",
+      "SOLUONG": 2,
+      "DONGIA": 320000
+    }
+  ],
+  "NhanVien": {
+    "HOTEN": "Phan Nguyễn Duy Hưng"
+  }
+},
+{
+  "_id": {
+    "$oid": "652c2967e3127c41f3f549a3"
+  },
+  "MAHD": "HD02",
+  "NGAYLAP": "16/10/2023",
+  "CHITIETHOADON": [
+    {
+      "TENSP": "Nước tẩy trang cocoon",
+      "SOLUONG": 1,
+      "DONGIA": 245000
+    }
+  ],
+  "NhanVien": {
+    "HOTEN": "Phan Nguyễn Duy Hưng"
+  }
+}]
